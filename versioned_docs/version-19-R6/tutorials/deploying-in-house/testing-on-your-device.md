@@ -74,6 +74,8 @@ You need [Apple configurator 2](https://itunes.apple.com/us/app/apple-configurat
 
 ## STEP 6. Installation
 
+[Before that you must ensure that your apple device has developement mode enabled](../apple-device-devmode.md)
+
 ### Install automatically with Apple Configurator 2
 
 * When your app is ready, open the BUILD tab.
